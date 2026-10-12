@@ -6,7 +6,9 @@ chao
 
 ## About us
 
-gjggjh, kkk
+<<<<<<< HEAD
+gjggjh, kkk fff
+
 
 ## Favorite food
 kai tod
